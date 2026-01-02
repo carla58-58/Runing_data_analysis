@@ -99,3 +99,11 @@ Explore and analyze ultra-marathon race data (50km and 50mi races in the USA) to
 
 - Saved the cleaned and processed dataset to `cleaned_ultramarathon_data.csv` for future use or sharing
 
+## 11. Technologies Used
+
+📊 Data Processing: Pandas, NumPy
+📈 Visualization: Seaborn, Matplotlib  
+🔬 Statistics: SciPy (t-tests, ANOVA)
+🔗 Environment: Google Colab (Jupyter)
+
+
