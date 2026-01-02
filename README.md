@@ -101,9 +101,9 @@ Explore and analyze ultra-marathon race data (50km and 50mi races in the USA) to
 
 ## 11. Technologies Used
 
-📊 Data Processing: Pandas, NumPy
-📈 Visualization: Seaborn, Matplotlib  
-🔬 Statistics: SciPy (t-tests, ANOVA)
-🔗 Environment: Google Colab (Jupyter)
+- Data Processing: Pandas, NumPy
+- Visualization: Seaborn, Matplotlib
+- Statistics: SciPy (t-tests, ANOVA)
+- Environment: Google Colab (Jupyter)
 
 
